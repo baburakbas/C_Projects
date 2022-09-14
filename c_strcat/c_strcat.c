@@ -35,4 +35,5 @@ int main(){
 	
 	//printf("%s\n", savedValue);
 	return savedValue;
+	 // Bir şey deniyorum kabul et müco seni sikmesin 
 } 
